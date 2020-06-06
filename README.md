@@ -1,5 +1,5 @@
 Build:
-https://bwarrend.github.io/HCC/
+https://hicsachallenge.github.io/Hawaii-Cyber-Security-Awareness-Challenge/
 
 Hawaii Cyber Challenge
 # Hawaii-Cyber-Security-Awareness-Challenge
