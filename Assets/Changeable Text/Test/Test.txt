@@ -1,0 +1,100 @@
+1. What does the 's' in HTTPS mean?
+Safe  
+Secure
+Shielded
+Sheltered
+2. _______ is a type of malicious software cyber actors use to deny access to a system's data
+Malware
+Trojan
+Worm
+Ransomware
+3. Which password is most secure?
+Baby$hark123
+Password123
+Sur#jTfGrfy!09
+Meh
+4. Is it more secure to have unique passwords for each site you visit?
+True
+False
+ 
+ 
+5. A defensie technology designed to keep hackers out is called?
+Defenseware
+Firewall
+Software
+Fence
+6. What term describes all forms of malicious software designed to wreak havoc on a computer?
+Worms
+Virus
+Malware
+Trojan horse
+7. ____ aim(s) to orrupt, ease or modify information on a user's computer before spreading it to others. 
+Worms
+Viruses
+Malware
+Trojan horse
+8. What is a malware that allows hacker to gain remote access to a computer?
+Worms
+Virus
+Malware
+Trojan horse
+9. What shouldnt you include in an email?
+Office number
+Location
+Name
+Passwords
+10. What can repliate itself in order to spread infection to other computer in the network?
+Worms
+Virus
+Malware
+Trojan horse
+11. _____ is a way to add a second layer to veryfying ones account?
+Dual authentication
+key Data
+Password
+Pin
+12. ____ occurs when someone obtains key pieces of your personal information and impersonates you.
+Theft
+Cloning
+Identity theft
+Identity
+13. What is a fraudulent attempt to obtain sensitive information such as passwords and log-ins by disguising them as someone who has authority
+Fishing
+Phishing
+Scooping
+Imposter
+14. What are safe E-mail habits?
+click on random links in E-mails
+send out sensitive information through email
+log out when you are done using your email
+follow instructions from unknown sources
+15. How do you protect yourself from malware?
+Get anti-virus
+Update computer software
+Secure passwords
+All of the above
+16. What is your best defense against the consequences of ransomware
+Save data to desktop
+E-mail data to co-workers
+Back data up
+E-mail data to yourself
+17. Scareware is a scam by hackers to attempt to gain access to your computer.
+True
+False
+ 
+ 
+18. Adware is unwanted software designed to throw advertisments up on your screens.
+True
+False
+ 
+ 
+19. A lock symbol on your browser signifies?
+Screen lock
+Unencrypted
+Encrypted
+Nothing
+20. It's safe to assume that everything over the internet is secure.
+True 
+False
+ 
+ 

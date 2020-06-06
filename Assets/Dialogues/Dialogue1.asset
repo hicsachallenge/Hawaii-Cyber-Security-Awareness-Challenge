@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a68ce0579b44514e8476e313af98fbe, type: 3}
+  m_Name: Dialogue1
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: f9024205c31b7d9429fae40c4c09d193, type: 3}
+    myText: Welcome to the Hawaii Cyber Challenge Project!
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/first.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: f9024205c31b7d9429fae40c4c09d193, type: 3}
+    myText: I'm here to help guide you through the program, and hopefully teach you
+      a thing or two about cyber security.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/second.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: 901bf0f8686e36448b65a67a047de5f4, type: 3}
+    myText: I'm sure you're pretty familiar with the Internet by now.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: f9024205c31b7d9429fae40c4c09d193, type: 3}
+    myText: It's pretty nutty how it allows us access to communicate with people across
+      the globe.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: f9024205c31b7d9429fae40c4c09d193, type: 3}
+    myText: And that's how I'm able to communicate with you right now...
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: 5bba768bc9a392f49991f9ebaadba477, type: 3}
+    myText: Through the power of the Internet!
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: ab93ddeab0338574e9ebd951e99254d5, type: 3}
+    myText: However, there also many people who use the Internet for their own personal
+      gain.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: ab93ddeab0338574e9ebd951e99254d5, type: 3}
+    myText: Using methods such as phishing, trojans, and password cracking, hackers
+      have the potential to steal your data and gain sensitive info.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: ab93ddeab0338574e9ebd951e99254d5, type: 3}
+    myText: Das no good. No good at all.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: f9024205c31b7d9429fae40c4c09d193, type: 3}
+    myText: But thankfully, there are some solutions to make your time on the Internet
+      just a bit more safe.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: 901bf0f8686e36448b65a67a047de5f4, type: 3}
+    myText: To start off, the strength of your password could greatly increase the
+      security of your accounts
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: f9024205c31b7d9429fae40c4c09d193, type: 3}
+    myText: 'The longer the password is, the more secure it becomes. '
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: ab93ddeab0338574e9ebd951e99254d5, type: 3}
+    myText: Combining longer passwords with a mix of lowercase and uppercase characters
+      result in a more secure password, fo' sho.
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  - name: Acai Bowl Buddy
+    portrait: {fileID: 21300000, guid: ab93ddeab0338574e9ebd951e99254d5, type: 3}
+    myText: For example...
+    url: https://raw.githubusercontent.com/bwarrend/HCC/master/Assets/Changeable%20Text/LoginD/third.txt
+  questionText: Which of these has the best password option?
+  optionsInfo:
+  - buttonName: coconut
+    nextDialogue: {fileID: 11400000, guid: 47e504b78e9b08047b8c832121326e2d, type: 2}
+    myEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: 63484baa935f61442a047ac2b796fd3b, type: 2}
+          m_MethodName: TestEvent
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  - buttonName: password
+    nextDialogue: {fileID: 11400000, guid: 47e504b78e9b08047b8c832121326e2d, type: 2}
+    myEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: 63484baa935f61442a047ac2b796fd3b, type: 2}
+          m_MethodName: TestEvent02
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  - buttonName: locomoco
+    nextDialogue: {fileID: 11400000, guid: 47e504b78e9b08047b8c832121326e2d, type: 2}
+    myEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: 63484baa935f61442a047ac2b796fd3b, type: 2}
+          m_MethodName: TestEvent03
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  - buttonName: HawaiiCyberChallenge
+    nextDialogue: {fileID: 11400000, guid: 5aaba24036aa0e14dad71e0dae8a6e5b, type: 2}
+    myEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: 63484baa935f61442a047ac2b796fd3b, type: 2}
+          m_MethodName: TestEvent
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2

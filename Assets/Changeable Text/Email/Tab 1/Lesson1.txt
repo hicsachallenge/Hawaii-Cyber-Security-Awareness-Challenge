@@ -1,0 +1,12 @@
+Aloha,
+
+Welcome to the Cyber Security training program! Here you see are a list of 
+emails to your left. In this simulation you have to make sure this emails are safe and secure. 
+Press the junk button if you think its suspicious or press the next button if you think the email is safe.
+
+
+
+Sincerely,
+Bob.
+
+
